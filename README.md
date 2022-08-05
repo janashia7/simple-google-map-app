@@ -1,6 +1,6 @@
 # Google map with markers
 
-**It's simple typescript google map app with markers of fake users and fake companies**
+It's simple typescript google map app with markers of fake users and fake companies
 
 ## Installation
 
@@ -10,4 +10,3 @@ Install the dependencies and devDependencies and start the server.
 npm i
 npm run dev
 ```
-
